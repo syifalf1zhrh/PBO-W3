@@ -1,2 +1,2 @@
 # PBO-W3
- Berisi projek praktikum PBO pertemuan ketiga
+ Berisi projek praktikum PBO pertemuan ketiga (Inheritance)
